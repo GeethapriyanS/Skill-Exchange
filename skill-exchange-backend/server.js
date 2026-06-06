@@ -1,6 +1,10 @@
 // server.js
 // Main entry point for the Skill Exchange Platform backend
 
+const dns = require("dns");
+// Set DNS servers to bypass local DNS resolution limitations (refused SRV queries)
+dns.setServers(["8.8.8.8", "8.8.4.4"]);
+
 const express = require("express");
 const http = require("http");
 const { Server } = require("socket.io");
