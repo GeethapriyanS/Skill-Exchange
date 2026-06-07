@@ -1,0 +1,54 @@
+[
+  {
+    "_id": { "$oid": "650000000000000000000011" },
+    "user": { "$oid": "650000000000000000000001" },
+    "title": "Learn React from scratch",
+    "description": "I will teach you React including hooks, state management and component design.",
+    "category": "Web Development",
+    "offering": "React",
+    "seeking": "Python",
+    "level": "Beginner",
+    "isActive": true,
+    "createdAt": { "$date": "2026-06-06T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-06-06T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "650000000000000000000012" },
+    "user": { "$oid": "650000000000000000000002" },
+    "title": "Python for data science",
+    "description": "Learn Python, pandas, and numpy with real projects.",
+    "category": "Data Science",
+    "offering": "Python",
+    "seeking": "React",
+    "level": "Intermediate",
+    "isActive": true,
+    "createdAt": { "$date": "2026-06-06T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-06-06T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "650000000000000000000013" },
+    "user": { "$oid": "650000000000000000000003" },
+    "title": "UI/UX Design fundamentals",
+    "description": "Learn Figma, wireframing, and user-centered design principles.",
+    "category": "Design",
+    "offering": "UI Design",
+    "seeking": "JavaScript",
+    "level": "Beginner",
+    "isActive": true,
+    "createdAt": { "$date": "2026-06-06T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-06-06T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "650000000000000000000014" },
+    "user": { "$oid": "650000000000000000000004" },
+    "title": "Backend development with Node.js",
+    "description": "Build REST APIs with Express, connect MongoDB, and deploy.",
+    "category": "Web Development",
+    "offering": "Node.js",
+    "seeking": "UI Design",
+    "level": "Intermediate",
+    "isActive": true,
+    "createdAt": { "$date": "2026-06-06T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-06-06T00:00:00.000Z" }
+  }
+]
