@@ -1,4 +1,6 @@
-﻿# Skill Exchange Web
+# Skill Exchange Web
+
+## 🌐 Live Demo: [skill-exchange-self.vercel.app](https://skill-exchange-self.vercel.app)
 
 A full-stack peer-to-peer skill exchange platform built with React, Express, Node.js, MongoDB, and Socket.IO.
 
