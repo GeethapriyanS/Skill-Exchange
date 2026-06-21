@@ -33,7 +33,7 @@ export default function Navbar() {
       <div className="navbar-inner">
         {/* Logo */}
         <Link to="/dashboard" className="navbar-logo">
-          <img src="/skillexchange_logo.png" alt="SkillXchange Logo" className="logo-image" />
+          <img src="/skillexchange_logo2.png" alt="SkillXchange Logo" className="logo-image" />
           <span className="logo-text">SkillXchange</span>
         </Link>
 
