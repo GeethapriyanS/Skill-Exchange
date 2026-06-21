@@ -1,4 +1,4 @@
-# Skill Exchange Platform — Backend
+# SkillXchange Platform — Backend
 
 A hackathon-ready MERN backend for a peer-to-peer skill exchange marketplace.
 

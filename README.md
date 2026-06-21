@@ -1,4 +1,4 @@
-# Skill Exchange Web
+# SkillXchange Web
 
 ## 🌐 Live Demo: [skill-exchange-self.vercel.app](https://skill-exchange-self.vercel.app)
 

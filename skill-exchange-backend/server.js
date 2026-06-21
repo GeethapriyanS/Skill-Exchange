@@ -1,5 +1,5 @@
 // server.js
-// Main entry point for the Skill Exchange Platform backend
+// Main entry point for the SkillXchange Platform backend
 
 const dns = require("dns");
 // Set DNS servers to bypass local DNS resolution limitations (refused SRV queries)
@@ -42,7 +42,7 @@ app.use("/api/chat",     require("./routes/chatRoutes"));
 
 // ─── Health Check ─────────────────────────────────────────────────────────────
 app.get("/", (req, res) => {
-  res.json({ success: true, message: "Skill Exchange API is running 🚀" });
+  res.json({ success: true, message: "SkillXchange API is running 🚀" });
 });
 
 // ─── 404 Handler ──────────────────────────────────────────────────────────────

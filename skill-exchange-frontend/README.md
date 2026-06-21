@@ -1,4 +1,4 @@
-# Skill Exchange Platform — Frontend
+# SkillXchange Platform — Frontend
 
 A hackathon-ready React frontend for the peer-to-peer skill exchange platform.
 
